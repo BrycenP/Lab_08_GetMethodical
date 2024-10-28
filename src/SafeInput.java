@@ -83,6 +83,22 @@ public class SafeInput {
         }while (!proceed);
         return retDouble;
     }
-
+    public static boolean getYNConfirm(Scanner pipe, String prompt){
+        boolean retBool = false;
+        boolean proceed;
+        String yOrN = "";
+        do {
+            System.out.print("\n" + prompt + ": ");
+            yOrN = pipe.nextLine();
+            if (yOrN.equalsIgnoreCase("y")){
+                retBool = true;
+                proceed = true;
+            } else if (yOrN.equalsIgnoreCase("n")){
+                retBool = false;
+                proceed = true;
+            }else {proceed = false;}
+        }while(!proceed);
+        return retBool;
+    }
 
 }
