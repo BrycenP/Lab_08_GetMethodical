@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="527dab30-c54f-4c50-8223-717cd11ede59" name="Changes" comment="Safe Input almost complete, First Program complete">
-      <change beforePath="$PROJECT_DIR$/src/FavNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FavNumbers.java" afterDir="false" />
+    <list default="true" id="527dab30-c54f-4c50-8223-717cd11ede59" name="Changes" comment="Safe Input almost complete, Second Program complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730071428040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Safe Input almost complete, Second Program complete">
+      <option name="closed" value="true" />
+      <created>1730071861990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730071861990</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Safe Input almost complete, First Program complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Safe Input almost complete, First Program complete" />
+    <MESSAGE value="Safe Input almost complete, Second Program complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Safe Input almost complete, Second Program complete" />
   </component>
 </project>
